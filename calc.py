@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
 def sun(a, b):
-	pass
+	return(a+b)
 def sub(a, b):
-	pass
+	return(b-a)
