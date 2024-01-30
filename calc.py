@@ -3,4 +3,4 @@
 def sun(a, b):
 	pass
 def sub(a, b):
-	pass
+	return(a-b)
